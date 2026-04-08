@@ -1,0 +1,602 @@
+[
+  {
+    "id": "TCK-1001",
+    "subject": "Charged twice for monthly plan",
+    "body": "Charged twice for monthly plan. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-1 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "billing",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1002",
+    "subject": "Requesting refund after cancellation",
+    "body": "Requesting refund after cancellation. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-2 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "billing",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1003",
+    "subject": "Invoice missing VAT details",
+    "body": "Invoice missing VAT details. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-3 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "billing",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1004",
+    "subject": "Unable to update payment method",
+    "body": "Unable to update payment method. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-4 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "billing",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1005",
+    "subject": "Annual plan renewed unexpectedly",
+    "body": "Annual plan renewed unexpectedly. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-5 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "billing",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1006",
+    "subject": "Promo code not applied to checkout",
+    "body": "Promo code not applied to checkout. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-6 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "billing",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1007",
+    "subject": "Seat count billing discrepancy",
+    "body": "Seat count billing discrepancy. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-7 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "billing",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1008",
+    "subject": "Card declined but charge appears pending",
+    "body": "Card declined but charge appears pending. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-8 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "billing",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1009",
+    "subject": "Need downloadable invoice PDF",
+    "body": "Need downloadable invoice PDF. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-9 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "billing",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1010",
+    "subject": "Tax amount looks incorrect",
+    "body": "Tax amount looks incorrect. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-10 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "billing",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1011",
+    "subject": "Payment failed on renewal",
+    "body": "Payment failed on renewal. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-11 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "billing",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1012",
+    "subject": "Downgrade did not reduce next invoice",
+    "body": "Downgrade did not reduce next invoice. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-12 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "billing",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1013",
+    "subject": "Proration amount seems wrong",
+    "body": "Proration amount seems wrong. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-13 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "billing",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1014",
+    "subject": "Subscription canceled but still billed",
+    "body": "Subscription canceled but still billed. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-14 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "billing",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1015",
+    "subject": "Duplicate invoice generated",
+    "body": "Duplicate invoice generated. The customer reports impact on their workflow and requests support guidance. Additional context: case billing-15 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "billing",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1016",
+    "subject": "Cannot log in with SSO",
+    "body": "Cannot log in with SSO. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-1 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "technical",
+    "correct_urgency": "critical",
+    "sla_hours": 4,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1017",
+    "subject": "API returning 500 on /tickets",
+    "body": "API returning 500 on /tickets. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-2 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "technical",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1018",
+    "subject": "Dashboard crashes on load",
+    "body": "Dashboard crashes on load. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-3 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "technical",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1019",
+    "subject": "Webhook delivery keeps failing",
+    "body": "Webhook delivery keeps failing. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-4 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "technical",
+    "correct_urgency": "critical",
+    "sla_hours": 4,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1020",
+    "subject": "Mobile app stuck on splash screen",
+    "body": "Mobile app stuck on splash screen. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-5 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "technical",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1021",
+    "subject": "Password reset email not received",
+    "body": "Password reset email not received. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-6 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "technical",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1022",
+    "subject": "Export CSV button unresponsive",
+    "body": "Export CSV button unresponsive. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-7 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "technical",
+    "correct_urgency": "critical",
+    "sla_hours": 4,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1023",
+    "subject": "Search results not updating",
+    "body": "Search results not updating. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-8 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "technical",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1024",
+    "subject": "Attachments fail to upload",
+    "body": "Attachments fail to upload. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-9 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "technical",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1025",
+    "subject": "Intermittent timeout on API calls",
+    "body": "Intermittent timeout on API calls. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-10 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "technical",
+    "correct_urgency": "critical",
+    "sla_hours": 4,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1026",
+    "subject": "Two-factor code always rejected",
+    "body": "Two-factor code always rejected. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-11 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "technical",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1027",
+    "subject": "Notification settings not saving",
+    "body": "Notification settings not saving. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-12 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "technical",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1028",
+    "subject": "Data sync lagging by hours",
+    "body": "Data sync lagging by hours. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-13 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "technical",
+    "correct_urgency": "critical",
+    "sla_hours": 4,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1029",
+    "subject": "App freezes after update",
+    "body": "App freezes after update. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-14 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "technical",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1030",
+    "subject": "Browser console shows CORS error",
+    "body": "Browser console shows CORS error. The customer reports impact on their workflow and requests support guidance. Additional context: case technical-15 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "technical",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1031",
+    "subject": "How to invite team members",
+    "body": "How to invite team members. The customer reports impact on their workflow and requests support guidance. Additional context: case general-1 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "general",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1032",
+    "subject": "Do you support annual invoicing",
+    "body": "Do you support annual invoicing. The customer reports impact on their workflow and requests support guidance. Additional context: case general-2 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "general",
+    "correct_urgency": "low",
+    "sla_hours": 48,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1033",
+    "subject": "Where can I find API docs",
+    "body": "Where can I find API docs. The customer reports impact on their workflow and requests support guidance. Additional context: case general-3 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "general",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1034",
+    "subject": "Feature request: dark mode",
+    "body": "Feature request: dark mode. The customer reports impact on their workflow and requests support guidance. Additional context: case general-4 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "general",
+    "correct_urgency": "low",
+    "sla_hours": 48,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1035",
+    "subject": "How to change workspace name",
+    "body": "How to change workspace name. The customer reports impact on their workflow and requests support guidance. Additional context: case general-5 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "general",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1036",
+    "subject": "Best practices for ticket tags",
+    "body": "Best practices for ticket tags. The customer reports impact on their workflow and requests support guidance. Additional context: case general-6 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "general",
+    "correct_urgency": "low",
+    "sla_hours": 48,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1037",
+    "subject": "Can I connect Slack integration",
+    "body": "Can I connect Slack integration. The customer reports impact on their workflow and requests support guidance. Additional context: case general-7 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "general",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1038",
+    "subject": "Question about data retention",
+    "body": "Question about data retention. The customer reports impact on their workflow and requests support guidance. Additional context: case general-8 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "general",
+    "correct_urgency": "low",
+    "sla_hours": 48,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1039",
+    "subject": "How to export account history",
+    "body": "How to export account history. The customer reports impact on their workflow and requests support guidance. Additional context: case general-9 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "general",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1040",
+    "subject": "Need help understanding usage limits",
+    "body": "Need help understanding usage limits. The customer reports impact on their workflow and requests support guidance. Additional context: case general-10 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "general",
+    "correct_urgency": "low",
+    "sla_hours": 48,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1041",
+    "subject": "Do you offer nonprofit discounts",
+    "body": "Do you offer nonprofit discounts. The customer reports impact on their workflow and requests support guidance. Additional context: case general-11 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "general",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1042",
+    "subject": "How to set up custom domain",
+    "body": "How to set up custom domain. The customer reports impact on their workflow and requests support guidance. Additional context: case general-12 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "general",
+    "correct_urgency": "low",
+    "sla_hours": 48,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1043",
+    "subject": "Where to view audit logs",
+    "body": "Where to view audit logs. The customer reports impact on their workflow and requests support guidance. Additional context: case general-13 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "general",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1044",
+    "subject": "Can I merge duplicate contacts",
+    "body": "Can I merge duplicate contacts. The customer reports impact on their workflow and requests support guidance. Additional context: case general-14 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "general",
+    "correct_urgency": "low",
+    "sla_hours": 48,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1045",
+    "subject": "Question about onboarding checklist",
+    "body": "Question about onboarding checklist. The customer reports impact on their workflow and requests support guidance. Additional context: case general-15 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "general",
+    "correct_urgency": "medium",
+    "sla_hours": 24,
+    "is_escalation_required": false
+  },
+  {
+    "id": "TCK-1046",
+    "subject": "User sending spam links in chat",
+    "body": "User sending spam links in chat. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-1 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "abuse",
+    "correct_urgency": "critical",
+    "sla_hours": 4,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1047",
+    "subject": "Report harassment in community forum",
+    "body": "Report harassment in community forum. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-2 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "abuse",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1048",
+    "subject": "Possible phishing message received",
+    "body": "Possible phishing message received. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-3 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "abuse",
+    "correct_urgency": "critical",
+    "sla_hours": 4,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1049",
+    "subject": "Account impersonating our brand",
+    "body": "Account impersonating our brand. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-4 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "abuse",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1050",
+    "subject": "Suspicious bulk signups detected",
+    "body": "Suspicious bulk signups detected. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-5 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "abuse",
+    "correct_urgency": "critical",
+    "sla_hours": 4,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1051",
+    "subject": "User posting hateful content",
+    "body": "User posting hateful content. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-6 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "abuse",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1052",
+    "subject": "Repeated terms of service violations",
+    "body": "Repeated terms of service violations. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-7 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "abuse",
+    "correct_urgency": "critical",
+    "sla_hours": 4,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1053",
+    "subject": "Malware attachment sent to team",
+    "body": "Malware attachment sent to team. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-8 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "abuse",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1054",
+    "subject": "Bot abusing public API endpoint",
+    "body": "Bot abusing public API endpoint. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-9 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "abuse",
+    "correct_urgency": "critical",
+    "sla_hours": 4,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1055",
+    "subject": "Customer sharing pirated material",
+    "body": "Customer sharing pirated material. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-10 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "abuse",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1056",
+    "subject": "Threatening messages from another user",
+    "body": "Threatening messages from another user. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-11 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "abuse",
+    "correct_urgency": "critical",
+    "sla_hours": 4,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1057",
+    "subject": "Fraudulent chargeback abuse pattern",
+    "body": "Fraudulent chargeback abuse pattern. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-12 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "abuse",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1058",
+    "subject": "Unauthorized access attempt reported",
+    "body": "Unauthorized access attempt reported. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-13 with reproducible details and timestamps.",
+    "customer_tier": "enterprise",
+    "correct_category": "abuse",
+    "correct_urgency": "critical",
+    "sla_hours": 4,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1059",
+    "subject": "Mass mention abuse disrupting channel",
+    "body": "Mass mention abuse disrupting channel. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-14 with reproducible details and timestamps.",
+    "customer_tier": "free",
+    "correct_category": "abuse",
+    "correct_urgency": "high",
+    "sla_hours": 8,
+    "is_escalation_required": true
+  },
+  {
+    "id": "TCK-1060",
+    "subject": "Private data leaked in public thread",
+    "body": "Private data leaked in public thread. The customer reports impact on their workflow and requests support guidance. Additional context: case abuse-15 with reproducible details and timestamps.",
+    "customer_tier": "pro",
+    "correct_category": "abuse",
+    "correct_urgency": "critical",
+    "sla_hours": 4,
+    "is_escalation_required": true
+  }
+]
